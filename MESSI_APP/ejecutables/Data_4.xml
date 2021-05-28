@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Manufacturer>Sienar Fleet Systems</Manufacturer>
+  <Length>17</Length>
+  <Speed>1530 kph</Speed>
+  <Hyperdrive>Class 2</Hyperdrive>
+  <Shielding>Field Shield</Shielding>
+  <Armament>Laser blaster</Armament>
+</Data>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelOrder" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="OperationalArea">
+    <Key>
+      <PropertyRef Name="idOperationalArea" />
+    </Key>
+    <Property Name="idOperationalArea" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodeOperationalArea" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+    <Property Name="DescOperationalArea" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="OrderInfoes" Relationship="Self.FK_OrderInfo_OperationalAreas" FromRole="OperationalAreas" ToRole="OrderInfo" />
+  </EntityType>
+  <EntityType Name="OrderInfo">
+    <Key>
+      <PropertyRef Name="idOrderInfo" />
+    </Key>
+    <Property Name="idOrderInfo" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idOrder" Type="Int16" Nullable="false" />
+    <Property Name="idAgency" Type="Int16" Nullable="false" />
+    <Property Name="idOperationalArea" Type="Int16" Nullable="false" />
+    <NavigationProperty Name="OperationalArea" Relationship="Self.FK_OrderInfo_OperationalAreas" FromRole="OrderInfo" ToRole="OperationalAreas" />
+    <NavigationProperty Name="Order" Relationship="Self.FK_OrderInfo_Orders" FromRole="OrderInfo" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="idOrder" />
+    </Key>
+    <Property Name="idOrder" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="codeOrder" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+    <Property Name="dateOrder" Type="DateTime" Precision="0" />
+    <Property Name="IdPriority" Type="Int16" Nullable="false" />
+    <Property Name="IdFactory" Type="Int16" Nullable="false" />
+    <NavigationProperty Name="OrderInfoes" Relationship="Self.FK_OrderInfo_Orders" FromRole="Orders" ToRole="OrderInfo" />
+    <NavigationProperty Name="OrdersDetails" Relationship="ModelOrder.FK_OrdersDetail_Orders" FromRole="Order" ToRole="OrdersDetail" />
+  </EntityType>
+  <Association Name="FK_OrderInfo_OperationalAreas">
+    <End Role="OperationalAreas" Type="Self.OperationalArea" Multiplicity="1" />
+    <End Role="OrderInfo" Type="Self.OrderInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OperationalAreas">
+        <PropertyRef Name="idOperationalArea" />
+      </Principal>
+      <Dependent Role="OrderInfo">
+        <PropertyRef Name="idOperationalArea" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderInfo_Orders">
+    <End Role="Orders" Type="Self.Order" Multiplicity="1" />
+    <End Role="OrderInfo" Type="Self.OrderInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="idOrder" />
+      </Principal>
+      <Dependent Role="OrderInfo">
+        <PropertyRef Name="idOrder" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OrderEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="OperationalAreas" EntityType="Self.OperationalArea" />
+    <EntitySet Name="OrderInfoes" EntityType="Self.OrderInfo" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <AssociationSet Name="FK_OrderInfo_OperationalAreas" Association="Self.FK_OrderInfo_OperationalAreas">
+      <End Role="OperationalAreas" EntitySet="OperationalAreas" />
+      <End Role="OrderInfo" EntitySet="OrderInfoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderInfo_Orders" Association="Self.FK_OrderInfo_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="OrderInfo" EntitySet="OrderInfoes" />
+    </AssociationSet>
+    <EntitySet Name="OrdersDetails" EntityType="ModelOrder.OrdersDetail" />
+    <AssociationSet Name="FK_OrdersDetail_Orders" Association="ModelOrder.FK_OrdersDetail_Orders">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrdersDetail" EntitySet="OrdersDetails" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="OrdersDetail">
+    <Key>
+      <PropertyRef Name="idOrderDetail" />
+    </Key>
+    <Property Name="idOrderDetail" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idOrder" Type="Int16" />
+    <Property Name="idPlanet" Type="Int32" />
+    <Property Name="idReference" Type="Int16" />
+    <Property Name="Quantity" Type="Int16" />
+    <Property Name="DeliveryDate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Order" Relationship="ModelOrder.FK_OrdersDetail_Orders" FromRole="OrdersDetail" ToRole="Order" />
+  </EntityType>
+  <Association Name="FK_OrdersDetail_Orders">
+    <End Type="ModelOrder.Order" Role="Order" Multiplicity="0..1" />
+    <End Type="ModelOrder.OrdersDetail" Role="OrdersDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="idOrder" />
+      </Principal>
+      <Dependent Role="OrdersDetail">
+        <PropertyRef Name="idOrder" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

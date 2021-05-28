@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelOrderStoreContainer" CdmEntityContainer="OrderEntities">
+    <EntitySetMapping Name="OperationalAreas">
+      <EntityTypeMapping TypeName="ModelOrder.OperationalArea">
+        <MappingFragment StoreEntitySet="OperationalAreas">
+          <ScalarProperty Name="idOperationalArea" ColumnName="idOperationalArea" />
+          <ScalarProperty Name="CodeOperationalArea" ColumnName="CodeOperationalArea" />
+          <ScalarProperty Name="DescOperationalArea" ColumnName="DescOperationalArea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderInfoes">
+      <EntityTypeMapping TypeName="ModelOrder.OrderInfo">
+        <MappingFragment StoreEntitySet="OrderInfo">
+          <ScalarProperty Name="idOrderInfo" ColumnName="idOrderInfo" />
+          <ScalarProperty Name="idOrder" ColumnName="idOrder" />
+          <ScalarProperty Name="idAgency" ColumnName="idAgency" />
+          <ScalarProperty Name="idOperationalArea" ColumnName="idOperationalArea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="ModelOrder.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="idOrder" ColumnName="idOrder" />
+          <ScalarProperty Name="codeOrder" ColumnName="codeOrder" />
+          <ScalarProperty Name="dateOrder" ColumnName="dateOrder" />
+          <ScalarProperty Name="IdPriority" ColumnName="IdPriority" />
+          <ScalarProperty Name="IdFactory" ColumnName="IdFactory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrdersDetails">
+      <EntityTypeMapping TypeName="ModelOrder.OrdersDetail">
+        <MappingFragment StoreEntitySet="OrdersDetail">
+          <ScalarProperty Name="DeliveryDate" ColumnName="DeliveryDate" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="idReference" ColumnName="idReference" />
+          <ScalarProperty Name="idPlanet" ColumnName="idPlanet" />
+          <ScalarProperty Name="idOrder" ColumnName="idOrder" />
+          <ScalarProperty Name="idOrderDetail" ColumnName="idOrderDetail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

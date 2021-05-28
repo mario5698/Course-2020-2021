@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Manufacturer>Sienar Fleet Systems</Manufacturer>
+  <Length>9,2</Length>
+  <Speed>1200 kph</Speed>
+  <Hyperdrive>Class 4</Hyperdrive>
+  <Shielding>Deflector Shield</Shielding>
+  <Armament>Laser cannons
+							  Cluster missile launch equipment
+					</Armament>
+</Data>

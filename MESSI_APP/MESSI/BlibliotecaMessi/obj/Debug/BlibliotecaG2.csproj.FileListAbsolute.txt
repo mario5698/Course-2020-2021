@@ -1,0 +1,48 @@
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\obj\Debug\BlibliotecaG2.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\bin\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\obj\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\obj\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\obj\Debug\BlibliotecaG2.SWTextbox.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\obj\Debug\BlibliotecaG2.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\obj\Debug\BlibliotecaG2.ObtenerNombreMaquina.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\BlibliotecaG2\obj\Debug\BlibliotecaG2.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\bin\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.ObtenerNombreMaquina.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.SWTextbox.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\bin\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.SWTextbox.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\bin\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.SWTextbox.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\BlibliotecaMessi\bin\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\BlibliotecaMessi\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.SWTextbox.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\bin\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.SWTextbox.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\BlibliotecaMessi\obj\Debug\BlibliotecaG2.csprojAssemblyReference.cache

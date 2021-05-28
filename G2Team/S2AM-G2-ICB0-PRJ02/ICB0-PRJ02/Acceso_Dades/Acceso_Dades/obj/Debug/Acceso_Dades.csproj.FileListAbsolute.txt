@@ -1,0 +1,31 @@
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\ejecutables\Acceso_Dades.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\ejecutables\Acceso_Dades.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb

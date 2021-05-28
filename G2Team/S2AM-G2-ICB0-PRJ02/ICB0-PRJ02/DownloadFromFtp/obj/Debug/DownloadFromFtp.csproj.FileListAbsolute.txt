@@ -1,0 +1,49 @@
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\bin\Debug\DownloadFromFtp.exe.config
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\bin\Debug\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\bin\Debug\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\DownloadFromFtp.exe.config
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\DownloadFromFtp.exe.config
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\App.config
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\DownloadFromFtp.exe.config
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\DownloadFromFtp.exe.manifest
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\DownloadFromFtp.application
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.Properties.Resources.resources
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.exe.manifest
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.application
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\DownloadFromFtp\obj\Debug\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\App.config
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\DownloadFromFtp.exe.config
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\DownloadFromFtp.exe.manifest
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\DownloadFromFtp.application
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\DownloadFromFtp.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.Properties.Resources.resources
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.exe.manifest
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.application
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.exe
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\DownloadFromFtp\obj\Debug\DownloadFromFtp.pdb

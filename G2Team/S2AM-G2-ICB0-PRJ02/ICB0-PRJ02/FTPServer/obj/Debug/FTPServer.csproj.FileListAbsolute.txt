@@ -1,0 +1,56 @@
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.dll.config
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.xml
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.dll.config
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.xml
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.dll.config
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\FTPServer.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.xml
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\FTPServer\obj\Debug\FTPServer.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\FTPServer.dll.config
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\FTPServer.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\EntityFramework.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\EntityFramework.xml
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\obj\Debug\FTPServer.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\obj\Debug\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\obj\Debug\FTPServer.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\obj\Debug\FTPServer.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\FTPServer\obj\Debug\FTPServer.pdb

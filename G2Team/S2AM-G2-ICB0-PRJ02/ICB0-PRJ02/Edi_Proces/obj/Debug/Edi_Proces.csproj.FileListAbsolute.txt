@@ -1,0 +1,52 @@
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Edi_Proces.dll.config
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Edi_Proces.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Edi_Proces.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.Edi.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CopyComplete
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Edi_Proces.dll.config
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.Edi.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Edi_Proces.dll.config
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.Edi.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\App.config
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Edi_Proces.dll.config
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.Edi.resources
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Edi_Proces\obj\Debug\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\App.config
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Edi_Proces.dll.config
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Edi_Proces.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Edi_Proces\obj\Debug\Edi_Proces.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Edi_Proces\obj\Debug\Edi_Proces.Edi.resources
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Edi_Proces\obj\Debug\Edi_Proces.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Edi_Proces\obj\Debug\Edi_Proces.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Edi_Proces\obj\Debug\Edi_Proces.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Edi_Proces\obj\Debug\Edi_Proces.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Edi_Proces\obj\Debug\Edi_Proces.pdb

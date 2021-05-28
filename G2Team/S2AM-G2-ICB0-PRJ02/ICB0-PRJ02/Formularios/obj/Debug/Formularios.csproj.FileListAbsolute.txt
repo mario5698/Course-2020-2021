@@ -1,0 +1,101 @@
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Formularios.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Controles_Usuario.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Form_Base.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Controles_Usuario.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Form_Base.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Formularios.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Acceso_Dades.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\BlibliotecaG2.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Controles_Usuario.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Form_Base.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Acceso_Dades.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Controles_Usuario.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\bin\Debug\Form_Base.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Reto1.resources
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Busqueda.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Formularios.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Controles_Usuario.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Form_Base.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Controles_Usuario.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\bin\Debug\Form_Base.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\ejecutables\Formularios.dll
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\ejecutables\Formularios.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.usuarios.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Formularios.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Formularios.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Busqueda.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.normal_users.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Reto1.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.usuarios.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Formularios.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Formularios.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Busqueda.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.normal_users.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Reto1.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.usuarios.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Formularios.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Formularios.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Busqueda.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.normal_users.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Reto1.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.usuarios.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Formularios.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Formularios.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Busqueda.resources
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.normal_users.resources
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.Reto1.resources
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.usuarios.resources
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Formularios.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Formularios.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.Busqueda.resources
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.normal_users.resources
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.Reto1.resources
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.usuarios.resources
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Formularios\obj\Debug\Formularios.pdb

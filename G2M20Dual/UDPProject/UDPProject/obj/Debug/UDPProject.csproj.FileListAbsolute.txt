@@ -1,0 +1,12 @@
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\bin\Debug\UDPProject.exe.config
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\bin\Debug\UDPProject.exe
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\bin\Debug\UDPProject.pdb
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.BaseStarkiller.resources
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.Form1.resources
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.Properties.Resources.resources
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.SistemaStarkiller.resources
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.exe
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.pdb
+C:\Users\Mario\Desktop\Github\G2M20Dual\UDPProject\UDPProject\obj\Debug\UDPProject.csprojAssemblyReference.cache

@@ -1,0 +1,50 @@
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Categories.dll.config
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Categories.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Categories.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Categories\obj\Debug\Categories.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Categories\obj\Debug\Categories.Categories.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CopyComplete
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Categories\obj\Debug\Categories.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Categories\obj\Debug\Categories.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Categories.dll.config
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Categories.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Categories.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Categories\obj\Debug\Categories.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Categories\obj\Debug\Categories.Categories.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Categories\obj\Debug\Categories.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Categories\obj\Debug\Categories.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Categories.dll.config
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Categories.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Categories.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Categories\obj\Debug\Categories.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Categories\obj\Debug\Categories.Categories.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Categories\obj\Debug\Categories.dll
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Categories\obj\Debug\Categories.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Categories.dll.config
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Categories.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\ejecutables\Categories.pdb
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Categories\obj\Debug\Categories.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Categories\obj\Debug\Categories.Categories.resources
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Categories\obj\Debug\Categories.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Categories\obj\Debug\Categories.dll
+C:\Users\Mario\Desktop\Github\comprobar\S2AM-G2-Team\Categories\obj\Debug\Categories.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Categories.dll.config
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Categories.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\ejecutables\Categories.pdb
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Categories\obj\Debug\Categories.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Categories\obj\Debug\Categories.Categories.resources
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Categories\obj\Debug\Categories.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Categories\obj\Debug\Categories.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Categories\obj\Debug\Categories.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Categories\obj\Debug\Categories.dll
+C:\Users\Mario\Desktop\Github\G2Team\S2AM-G2-ICB0-PRJ02\ICB0-PRJ02\Categories\obj\Debug\Categories.pdb

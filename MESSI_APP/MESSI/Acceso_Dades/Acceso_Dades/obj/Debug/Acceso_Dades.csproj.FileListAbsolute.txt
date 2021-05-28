@@ -1,0 +1,39 @@
+C:\Users\Miguel\source\repos\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.dll
+C:\Users\Miguel\source\repos\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\source\repos\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Miguel\source\repos\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\Acceso_Dades\Acceso_Dades\bin\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\MESSI\Acceso_Dades\Acceso_Dades\obj\Debug\Acceso_Dades.csprojAssemblyReference.cache

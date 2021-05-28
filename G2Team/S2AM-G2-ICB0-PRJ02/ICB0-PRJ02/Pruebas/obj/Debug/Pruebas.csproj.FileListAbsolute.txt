@@ -1,0 +1,62 @@
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\Controles_Usuario.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\Controles_Usuario.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\Acceso_Dades.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\Acceso_Dades.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\BlibliotecaG2.dll
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\Acceso_Dades.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\BlibliotecaG2.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\Controles_Usuario.dll
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\Acceso_Dades.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\BlibliotecaG2.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\bin\Debug\Controles_Usuario.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\ejecutables\Pruebas.exe.config
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\ejecutables\Pruebas.exe
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\ejecutables\Pruebas.pdb
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Prueba.resources
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Snake\Documents\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Pruebas.exe.config
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Pruebas.exe
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\ejecutables\Pruebas.pdb
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Prueba.resources
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Miguel\Desktop\GitHub\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Pruebas.exe.config
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Pruebas.exe
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\ejecutables\Pruebas.pdb
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Prueba.resources
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Mario\Desktop\Github\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Pruebas.exe.config
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Pruebas.exe
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\ejecutables\Pruebas.pdb
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.Prueba.resources
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Mario\Desktop\Github\comprobar projecto\S2AM-G2-Team\Pruebas\obj\Debug\Pruebas.pdb

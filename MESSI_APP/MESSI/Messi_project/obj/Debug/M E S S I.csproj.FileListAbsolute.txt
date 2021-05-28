@@ -1,0 +1,80 @@
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M E S S I.csprojAssemblyReference.cache
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Form1.resources
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Properties.Resources.resources
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.GenerateResource.cache
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CoreCompileInputs.cache
+D:\S2AM\M20\M E S S I.exe.config
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M E S S I.exe
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M E S S I.pdb
+D:\S2AM\M20\M E S S I.exe
+D:\S2AM\M20\M E S S I.pdb
+D:\S2AM\M20\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Form2.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Properties.Resources.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I.exe.config
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.exe
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I.exe
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.load_splash.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_admin.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Properties.Resources.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I.exe.config
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.exe
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I.exe
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_user.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.load_splash.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_admin.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_user.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Properties.Resources.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I.exe.config
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.exe
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I.exe
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\MESSI_APP-master\M E S S I.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\ejecutables\M E S S I.exe.config
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\ejecutables\M E S S I.exe
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\ejecutables\M E S S I.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\ejecutables\M E S S I.exe.config
+C:\Users\Mario\Desktop\Github\MESSI_APP\ejecutables\M E S S I.exe
+C:\Users\Mario\Desktop\Github\MESSI_APP\ejecutables\M E S S I.pdb
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.load_splash.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_admin.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_user.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.menu.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.menu.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Form_Base.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.menu_admin.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Form_Base.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.menu_admin.resources
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CopyComplete
+C:\Users\Mario\Desktop\Github\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.GestionDispositivos.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.GestionDispositivos.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CopyComplete
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\ejecutables\M E S S I.exe.config
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\ejecutables\M E S S I.exe
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\ejecutables\M E S S I.pdb
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Form_Base.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.GestionDispositivos.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.load_splash.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_admin.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.login_user.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.menu.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.menu_admin.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M_E_S_S_I.Properties.Resources.resources
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.csproj.CopyComplete
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.exe
+C:\Users\Miguel\Desktop\GitHub\MESSI_APP-master\M E S S I\M E S S I\obj\Debug\M E S S I.pdb

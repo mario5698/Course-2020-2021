@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Manufacturer>Sienar Fleet Systems</Manufacturer>
+  <Length>22</Length>
+  <Speed>850 kph</Speed>
+  <Hyperdrive>Class 1</Hyperdrive>
+  <Shielding>Deflector Shield</Shielding>
+  <Armament>Laser cannons</Armament>
+</Data>

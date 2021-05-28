@@ -1,0 +1,9 @@
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\bin\Debug\BalisesPassives.exe.config
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\bin\Debug\BalisesPassives.exe
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\bin\Debug\BalisesPassives.pdb
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\obj\Debug\BalisesPassives.Form1.resources
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\obj\Debug\BalisesPassives.Properties.Resources.resources
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\obj\Debug\BalisesPassives.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\obj\Debug\BalisesPassives.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\obj\Debug\BalisesPassives.exe
+C:\Users\Mario\Desktop\Github\G2Arduino\AF-ICB0-PRJ05I02-S2\BalisesPassives\obj\Debug\BalisesPassives.pdb

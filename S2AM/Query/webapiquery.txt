@@ -1,0 +1,64 @@
+create table [Users] (
+Id int not null,
+Name nvarchar(100) not null,
+Login nvarchar(100) not null,
+Password nvarchar(100) not null,
+Token  nvarchar(100),
+Direction nvarchar(100) not null,
+Mobile int not null,
+primary key (Id),
+)
+
+create table Riders(
+Id int not null,
+Name nvarchar(100) not null,
+Mobile int not null,
+Vehicle nvarchar(100) not null,
+Token  nvarchar(100),
+Login 	nvarchar(100) not null,
+Password nvarchar(100) not null,
+primary key (Id)
+)
+
+create table Tasks (
+Id int not null,
+DirectionDelivery nvarchar(100) not null,
+DirectionPickup nvarchar(100) not null,
+Content nvarchar(200) not null,
+UserID int not null,
+RiderID int,
+Asigned bit,
+TokePickup nvarchar(200),
+TokenDelivery nvarchar(200),
+LongPickup  nvarchar(200),
+LatPickup  nvarchar(200),
+LongDelivery  nvarchar(200),
+LatDelivery  nvarchar(200),
+[State] nvarchar(100)
+primary key (id)
+foreign key(UserID) references [Users](Id),
+foreign key(RiderID) references Riders(Id),
+)
+
+CREATE TABLE Routes(
+id int IDENTITY(1,1) NOT NULL,
+CodeRoute nvarchar(12) NULL,
+DescRoute nvarchar(50) NULL,
+Constraint pk_routes_id PRIMARY  key (id)
+)
+
+SET IDENTITY_INSERT [dbo].[Routes] ON 
+
+INSERT [dbo].[Routes] ([id], [CodeRoute], [DescRoute]) VALUES (1, N'CORU', N'Corellian Run')
+insert into riders (Id,Name,Mobile,Vehicle,Login,Password) values (1, 'mario', 123456789, 'coche','m@gmail.com','12345');
+insert into Tasks (Id, Content ,Direction_Delivery ,Direction_Pickup ,UserID ,RiderID ,Asigned, State ) values (2,'cosas','calle maragall','calle roterdam', 1,1,0, null);
+
+///////////////////////////  DROP TABLES  ///////////////////////////   
+drop table Tasks;
+drop table Users;
+drop table Riders;
+
+/////////////////////////// Select  All Tables //////////////////////
+select * from users 
+select * from riders 
+select * from tasks 
